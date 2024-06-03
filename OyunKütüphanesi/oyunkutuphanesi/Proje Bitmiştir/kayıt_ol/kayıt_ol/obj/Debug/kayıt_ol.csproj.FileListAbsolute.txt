@@ -1,0 +1,617 @@
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Form1.resources
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.giris.resources
+C:\Users\neva ari\source\repos\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sozlesme.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Form1.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.giris.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sozlesme.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkımızda.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sözlesme_hakkındaki.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Form1.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.giris.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkımızda.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.iletisim.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sozlesme.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sözlesme_hakkındaki.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.yustol_nedir.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Form1.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.giris.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkımızda.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.iletisim.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sozlesme.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.yustol_nedir.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sözlesme_hakkındaki.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.iletisim.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.yustol_nedir.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.İletişimTwo.resources
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\neva ari\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kütüphane.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kütüphane.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.İletişimTwo.resources
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\neva ari\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kütüphane.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.yustol.resources
+C:\Users\yyasar\Desktop\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.HesapAyar.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Form1.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.giris.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkımızda.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.iletisim.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.HesapAyar.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kütüphane.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.yustol.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sozlesme.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sözlesme_hakkındaki.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.yustol_nedir.resources
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\masa üstü\kayit_ol\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.magaza.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.magaza.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Form1.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.giris.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkımızda.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.iletisim.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.HesapAyar.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kütüphane.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.yustol.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sozlesme.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.sözlesme_hakkındaki.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.yustol_nedir.resources
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+C:\Users\serca\OneDrive\Masaüstü\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Magaza.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.KayitOl.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.GirisYap.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkimizda.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Iletisim.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.HesapAyar.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kutuphane.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yustol.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Sozlesme.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.SozlesmeHakkinda.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.YustolNedir.resources
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\Semih\Desktop\kayit_ol zip\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Magaza.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.KayitOl.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.GirisYap.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkimizda.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Iletisim.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.HesapAyar.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kutuphane.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yustol.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Sozlesme.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.SozlesmeHakkinda.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.YustolNedir.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\Semih\Desktop\ProjeLatestVersion\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Magaza.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.KayitOl.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.GirisYap.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkimizda.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Iletisim.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kutuphane.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yustol.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Sozlesme.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.SozlesmeHakkinda.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.YustolNedir.resources
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\Semih\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\yusuf\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\yusuf\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\yusuf\Desktop\ProjeLatestVersion - OyunEkleme\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.SuggestedBindingRedirects.cache
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Magaza.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.KayitOl.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.GirisYap.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkimizda.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Iletisim.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kutuphane.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yustol.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Sozlesme.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.SozlesmeHakkinda.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.YustolNedir.resources
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+E:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Magaza.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.KayitOl.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.GirisYap.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkimizda.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Iletisim.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kutuphane.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yustol.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Sozlesme.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.SozlesmeHakkinda.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.YustolNedir.resources
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+D:\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe.config
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.exe
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\kayıt_ol.pdb
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\RestSharp.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Buffers.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.CodeDom.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.Odbc.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.OleDb.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Data.SqlClient.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Drawing.Common.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Packaging.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.IO.Ports.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Memory.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.AccessControl.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Permissions.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.AssemblyReference.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Magaza.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.KayitOl.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.GirisYap.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Hakkimizda.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Iletisim.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Kutuphane.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yardim.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.kütüphane.Yustol.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Properties.Resources.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.Sozlesme.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.SozlesmeHakkinda.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.YustolNedir.resources
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.GenerateResource.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CoreCompileInputs.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.Fody.CopyLocal.cache
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.csproj.CopyComplete
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.exe
+C:\Users\yyasar\Desktop\Masa ustu\SteamOrnekProje\Proje Bitmiştir\kayıt_ol\kayıt_ol\obj\Debug\kayıt_ol.pdb
